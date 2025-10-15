@@ -6,3 +6,5 @@
 *.fasta
 *.fastaq
 *.mgf
+__pycache__/
+*.pyc
